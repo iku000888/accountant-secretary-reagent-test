@@ -1,0 +1,4 @@
+/.cpcache
+/.nrepl-port
+resources/public/out/*
+/figwheel_server.log
